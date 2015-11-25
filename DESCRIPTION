@@ -1,6 +1,5 @@
-Title: Telephones by region
-Author: Jeff Allen <jeff@rstudio.com>
-AuthorUrl: http://www.rstudio.com/
+Title: Create flow definition, using shiny
+Author: Sahil Seth <me@sahilseth.com>
 License: MIT
 DisplayMode: normal
 Tags: sidebarlayout helptext selectinput

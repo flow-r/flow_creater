@@ -1,5 +1,9 @@
 name: flow_creator
 account: sseth
-bundleId: 65517
-url: http://sseth.shinyapps.io/flow_creator
 server: shinyapps.io
+appId: 13867
+bundleId: 318599
+url: https://sseth.shinyapps.io/flow_creator
+when: 1448416990.15908
+asMultiple: FALSE
+asStatic: FALSE
